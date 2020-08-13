@@ -56,9 +56,9 @@
     <!-- <a href="https://dev.to/dev.to username" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to username" height="30" width="30" />
     </a> -->
-    <a href="https://twitter.com/lucashk" target="blank">
+<!--     <a href="https://twitter.com/lucashk" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lucashk" height="30" width="30" />
-    </a>
+    </a> -->
     <a href="https://linkedin.com/in/lucashgarcia" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucashgarcia" height="30" width="30" />
     </a>
