@@ -2,6 +2,7 @@
 <h3 align="left">A passionate frontend developer from Brazil, living in China</h3>
 
 <p align="left"> <a href="https://twitter.com/honzcha" target="blank"><img src="https://img.shields.io/twitter/follow/honzcha?logo=twitter&style=for-the-badge" alt="honzcha" /></a> </p>
+<p align="left"> <a href="https://instagram.com/honscha" target="blank"><img src="https://img.shields.io/instagram/follow/honzcha?logo=twitter&style=for-the-badge" alt="honzcha" /></a> </p>
 
 - 🌱 I’m currently learning **frontend development with ReactJS and Next.js**
 
