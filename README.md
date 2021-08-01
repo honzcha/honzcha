@@ -11,7 +11,7 @@
 
 <!-- - 💬 Ask me about **anything** -->
 
-- 📫 How to reach me - [📧email me](mailto:honzcha@outlook.com?subject=[GitHub]%20Hey%20let's chat!)
+- 📫 How to reach me - [📧email me](mailto:honzcha@outlook.com?subject=[GitHub]%20Hey%20lets%20chat!)
 
 <!-- - 📄 Know about my experiences [https://www.linkedin.com/in/lucashgarcia/](https://www.linkedin.com/in/lucashgarcia/) -->
 
