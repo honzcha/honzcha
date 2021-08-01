@@ -11,7 +11,7 @@
 
 <!-- - 💬 Ask me about **anything** -->
 
-- 📫 How to reach me **honzcha@outlook.com**
+- 📫 How to reach me > [📧email me](mailto:honzcha@outlook.com?subject=[GitHub]%20Source%20profile)
 
 <!-- - 📄 Know about my experiences [https://www.linkedin.com/in/lucashgarcia/](https://www.linkedin.com/in/lucashgarcia/) -->
 
