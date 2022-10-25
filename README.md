@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Lucas</h1>
-<h3 align="left">A passionate frontend developer from Brazil, living in China</h3>
+<h3 align="left">Product Manager from Brazil, living in China</h3>
 
 <p align="left"> <a href="https://twitter.com/honzcha" target="blank"><img src="https://img.shields.io/twitter/follow/honzcha?logo=twitter&style=for-the-badge" alt="honzcha" /></a> </p>
 
